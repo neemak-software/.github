@@ -17,11 +17,6 @@ We are a recently creation start up dedicated to the development of custom softw
 </p>
 <br />
 
-## Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=neemak-software)](https://git.io/streak-stats)
-
-
 ## Contact
 <br/>
 <p align="center">
