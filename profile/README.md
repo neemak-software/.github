@@ -18,9 +18,9 @@ We are a recently creation start up dedicated to the development of custom softw
 <br />
 
 ## Stats
-<br />
- <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=neemak-software&theme=dark&hide_border=true" /> 
-<br />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=neemak-software)](https://git.io/streak-stats)
+
 
 ## Contact
 <br/>
